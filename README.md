@@ -1,9 +1,10 @@
 # react.js-crud
 ---------------------------------------
 Gerekli kurulumlar için
-
-## npm install
----------------------------------------
+```
+npm install
+```
 Çalıştırmak için
-
-## npm run start
+```
+ npm run start
+```
